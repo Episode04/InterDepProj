@@ -1,0 +1,123 @@
+body {
+    margin: 0px 50px !important;
+}
+.page-header {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.container {
+    width: 100%;
+    flex-direction: column;
+}
+.impact_area {
+    background: white; 
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+}
+.portlet.light.bg-inverse {
+    margin-bottom: 0px !important;
+    background: white; 
+}
+.description_style {
+    margin: 20px 15px;
+    padding: 5px 0px;
+}
+.treeview_style {
+    overflow-y: auto;
+    height: 250px;
+    margin: 12px;
+    margin-top: 0px;
+}
+.guidebook_style {
+    padding: 12px 20px 12px;
+}
+.guidebook_title_style {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0px 15px 0px;
+}
+.guidebook_title_style span {
+    font-size: 16px;
+    font-weight: 700 !important;
+    color: #666;
+    padding-bottom: 5px;
+}
+.guidebook_body_style {
+    padding: 12px 5px;
+}
+.guidebook_component {
+    margin-top: 20px;
+}
+.guidebook_component span {
+    font-size: 15px;
+    font-weight: 500;
+}
+.guidebook_component a {
+    font-size: 13px;
+}
+.search_area {
+    padding-top: 10px;
+}
+.checkboxes_area .checkbox {
+    padding-bottom: 5px;
+}
+.no-margin {
+    margin: 0px !important;
+}
+.no-padding {
+    padding: 0px !important;
+}
+.use-margin {
+    margin: 0px 10px;
+}
+.ul_style {
+    list-style: none;
+    padding: 0px;
+}
+.result_search_style {
+    font-size: 16px;
+    font-weight: 700;
+    border-bottom: 1px solid #eee;
+    padding-right: 10px;
+}
+.caption a {
+    text-decoration: none;
+    color: #666;
+}
+fieldset { 
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 1px solid #eee !important;
+}
+legend {
+    width: auto;
+    border-bottom: none;
+}
+.statement_tools {
+    padding: 5px 0px 30px 0px;
+    font-size: 15px;
+}
+.content_sections {
+    padding: 15px;
+}
+.content_sections ul li {
+    padding: 5px 0px;
+}
+.contents_item p {
+    margin: 0px !important;
+}
+.pagination_style {
+    float: left;
+}
+.print_style {
+    float: right;
+}
+.statement_tools a {
+    text-decoration: none;
+    color: #666;
+}
